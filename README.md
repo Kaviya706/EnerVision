@@ -6,7 +6,7 @@ EnerVision is an AI-powered, cloud-ready energy consumption prediction system th
 **Best result:** Random Forest, MAE = 0.21 kW, R² = 0.54 (explains ~54% of consumption variance) — outperforming every other model tested.
 
 ## Live Demo
-*(add your Streamlit Cloud link here once deployed, e.g. https://enervision-kaviya.streamlit.app)*
+https://enervision-mnkrh9ejsic9am7texgecd.streamlit.app/
 
 ## Features
 - 🏠 **Home** — KPI cards (average/max/min consumption, peak time, best model) + usage trend (hourly/daily/weekly/monthly)
